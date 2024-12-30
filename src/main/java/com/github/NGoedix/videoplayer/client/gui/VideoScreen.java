@@ -1,6 +1,5 @@
 package com.github.NGoedix.videoplayer.client.gui;
 
-import com.github.NGoedix.videoplayer.VideoPlayer;
 import com.github.NGoedix.videoplayer.Reference;
 import com.github.NGoedix.videoplayer.client.ClientHandler;
 import com.github.NGoedix.videoplayer.util.math.VideoMathUtil;

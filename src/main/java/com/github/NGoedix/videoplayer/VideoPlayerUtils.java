@@ -1,4 +1,3 @@
-
 package com.github.NGoedix.videoplayer;
 
 import net.fabricmc.loader.api.FabricLoader;

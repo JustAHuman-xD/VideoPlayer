@@ -8,7 +8,6 @@ The VideoPlayer mod enhances your Minecraft server experience by allowing admini
 - Compatible with various video platforms, including YouTube and Twitch (Watermedia supported platforms).
 - Customize video playback settings, including volume, position, and size.
 - Enforce video playback restrictions, such as non-skippable and non-controllable playback.
-- TV block, radio block and radio item to play videos in your survival
 
 ## Requirements
 
